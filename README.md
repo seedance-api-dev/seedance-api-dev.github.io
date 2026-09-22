@@ -19,3 +19,5 @@ If you want Seedance 2.0 in your product, two paths are documented today: the fi
 ---
 
 *This is an independent page with no affiliation to ByteDance, Seedance or any API host mentioned; all trademarks belong to their respective owners.*
+
+_Last reviewed: 2026-09-22_
